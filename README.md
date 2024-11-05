@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**ProfJotaVIdros/ProfJotaVidros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Vitor Pires
 
-Here are some ideas to get you started:
+- Sou professor de Matemática, Pensamento Computacional e Robótica;
+- Estou me desenvolvendo nas linguagens C, JavaScript, Html e CSS;
+- Utilizo esse espaço para minha organização e compartilhamento de projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode encontrar em contato comigo 📫
+
+joao.pires16@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/gyUE5L2gzFcAAAAd/captain-pikachu-pokemon.gif)
