@@ -10,4 +10,4 @@ Meu nome é João Vitor Pires
 
 joao.pires16@escola.pr.gov.br
 
-![](https://media1.tenor.com/m/gyUE5L2gzFcAAAAd/captain-pikachu-pokemon.gif)
+![]([https://media1.tenor.com/m/gyUE5L2gzFcAAAAd/captain-pikachu-pokemon.gif](https://i.makeagif.com/media/7-04-2022/OIcVJZ.gif))
