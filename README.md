@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o João Vitor! ✋
 
-<!--
-**ProfJotaVIdros/ProfJotaVidros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Professor de Matemática, Pensamento Computacional e Robótica
+- Colégio Professores Edvaldo e Maria Janete Carneiro
+- Turvo - PR
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Formação: Licenciatura em Matemática
+- Aprendendo HTML, CSS e JavaScript
+- Objetivo: Me tornar um profissional mais completo
+- Hobbies: Música e Basquete
+
+![](https://media1.giphy.com/media/RNO8Prkfxntm7GpgJZ/giphy.gif?cid=6c09b952sqyo8985tt82razt07iwdsvvpbzywvwvupesac49&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
